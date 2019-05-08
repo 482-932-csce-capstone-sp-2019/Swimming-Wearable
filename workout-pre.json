@@ -1,0 +1,48 @@
+{
+  "swimmer": "swimmer-name",
+  "set": [
+    {
+      "reps": "1",
+      "distance": "300",
+      "time_to_complete": "60",
+      "target_time": "240",
+      "times": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "reps": "3",
+      "distance": "200",
+      "time_to_complete": "60",
+      "target_time": "180",
+      "times": [
+        {
+          "1": "",
+          "2": "",
+          "3": ""
+        }
+      ]
+    },
+    {
+      "reps": "5",
+      "distance": "100",
+      "time_to_complete": "60",
+      "target_time": "90",
+      "times": [
+        {
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        }
+      ]
+    }
+  ],
+  "rest_time": {
+    "1": "120",
+    "2": "180"
+  }
+}
